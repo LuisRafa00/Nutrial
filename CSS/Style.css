@@ -1,0 +1,8 @@
+.png{height: 100px; }
+.foo{color: white !important; text-decoration: none; }
+p{padding: 0px; }
+a{text-decoration: none; }
+#cua{width: 20%; }
+sli{height: 50px; }
+.bon{border-radius: 150px 0px 0px 150px; background-color: gainsboro; height: 150px; text-align: center; }
+.bom{border-radius: 0px 150px 150px 0px; background-color: gainsboro; height: 150px; text-align: center; }
